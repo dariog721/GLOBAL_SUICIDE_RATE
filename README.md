@@ -1,7 +1,7 @@
 # Global Suicide Rate
 
-In this Jupyter notebook we analyze the global suicide rates and their trends for the years 1987 to 2016, we compare the data by sex, age, generation and the top 10 with the most and least suicides. The correlation of GDP per capita with the suicide rate is also analyzed, where we find a slight correlation.
-It is also analyzed whether crime rates and suicide had a correlation.
+In this Jupyter notebook, global suicide rates and trends were analyzed for the years 1987 to 2016, the data was compared by sex, age, generation and the top 10 with the most and least suicides. 
+The evaluation of GDP per capita with the suicide rate is also analyzed, where we find a slight correlation. On the other hand, it was analyzed whether the crime and suicide rates had correlations.
 
 ### Data Used
 
