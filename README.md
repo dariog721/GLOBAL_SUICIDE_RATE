@@ -16,4 +16,9 @@ Suicide Rates Overview 1985 to 2016 https://www.kaggle.com/datasets/russellyates
 - STATMODELS
 - SCIPY
 
-  ### VIZUALIZATIONS 
+  ### VIZUALIZATIONS
+  GDP and Suicides
+![alt text](https://github.com/dariog721/global_suicide_rate/blob/main/GDP%20per%20capita%20and%20suicides.png)
+
+ Suicide Behavior
+ ![alt text](https://github.com/dariog721/global_suicide_rate/blob/main/Suicide%20behavior.png)
